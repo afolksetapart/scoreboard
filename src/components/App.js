@@ -9,7 +9,6 @@ const App = () => {
   return (
     <div className="scoreboard">
       <Header />
-
       <PlayerList />
       <AddPlayerForm />
     </div>
